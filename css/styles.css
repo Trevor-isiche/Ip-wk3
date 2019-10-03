@@ -1,0 +1,217 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins&display=swap');
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+@media only screen and (min-width: 320px) and (max-width: 414px) {
+    .part1 {
+        width: 40%;
+    }
+    .part3 {
+        width: 40%;
+    }
+    .part6 {
+        width: 40%;
+    }
+}
+
+.part1 {
+    background-image: url("///home/james/Documents/Ip-wk3/images//h_img.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    box-sizing: content-box;
+    text-align: center;
+    padding: 60px 30px;
+    height: 420px;
+}
+
+h1 {
+    font-size: 43px;
+}
+
+p {
+    font-size: 20px;
+}
+
+#img1 {
+    margin-bottom: -120px;
+}
+
+#logo {
+    width: 65px;
+    height: 65px;
+    margin-top: 130.5px;
+    position: 0px relative;
+}
+
+h2 {
+    font-size: 40px;
+    color: black;
+}
+
+.part2 {
+    text-align: center;
+    padding: 50px;
+}
+
+#about {
+    font-size: 15px;
+}
+
+.part3 {
+    background-image: url("///home/james/Documents/Ip-wk3/assets/backgrounds/s_image.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    text-align: center;
+    padding: 7%;
+}
+
+h3 {
+    font-size: 40px;
+    color: white;
+    margin-top: 20px;
+}
+
+#service {
+    font-size: 17px;
+}
+
+.part4 {
+    text-align: center;
+    padding: 4%;
+}
+
+#weDo {
+    padding: 2%;
+}
+
+#title1,
+#title2,
+#title3 {
+    font-size: 23px;
+}
+
+#desiPara,
+#devPara,
+#proPara {
+    font-size: 15px;
+}
+
+label {
+    font-size: 23px;
+}
+
+.part5 {
+    text-align: center;
+}
+
+#portfolio1 {
+    padding: 2%;
+    justify-content: space-between;
+    font-size: 30px;
+}
+
+#portfolio2 {
+    justify-content: space-between;
+    padding: 1%;
+}
+
+h4 {
+    text-align: center;
+    font-size: 27px;
+}
+
+h5 {
+    font-size: 40px;
+    color: black;
+}
+
+.part6 {
+    background-image: url("///home/james/Documents/Ip-wk3/assets/backgrounds/c_image.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    box-sizing: content-box;
+    text-align: center;
+    padding: 60px 30px;
+    height: 370px;
+    position: relative;
+    bottom: -30px;
+}
+
+#info {
+    padding: 1%;
+}
+
+#name {
+    height: 35px;
+    width: 520px;
+    background-image: url("///home/james/Documents/IP3-clone/IP3/assets/backgrounds/c_image.jpg");
+    color: white;
+}
+
+#email {
+    height: 35px;
+    width: 310px;
+    background-image: url("///home/james/Documents/IP3-clone/IP3/assets/backgrounds/c_image.jpg");
+    color: white;
+}
+
+#info,
+#textarea {
+    background-color: transparent;
+    color: white;
+}
+
+#button {
+    display: flex;
+    position: relative;
+    margin-left: 900px;
+}
+
+h6 {
+    color: white;
+    font-size: 35px;
+}
+
+.lastPart {
+    text-align: center;
+    padding: 7%;
+}
+
+#year>p {
+    text-align: center;
+    font-size: 15px;
+    position: relative;
+    top: -70px;
+}
+
+#pWork4,
+#pWork3,
+#pWork2,
+#pWork1,
+#pWork5,
+#pWork6,
+#pWork7,
+#pWork8 {
+    font-size: 30px;
+}
+
+.col-md-3 :hover {
+    background-color: white;
+    opacity: 0.5;
+}
+
+#pWork4,
+#pWork3,
+#pWork2,
+#pWork1,
+#pWork5,
+#pWork6,
+#pWork7,
+#pWork8 {
+    color: brown;
+    margin-top: -120px;
+    font-weight: bolder;
+}
